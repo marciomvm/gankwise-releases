@@ -49,11 +49,14 @@ The coach suggests; it never plays for you and never shows information the game 
 
 **Requirements:** Windows 10 or 11 (64-bit) and the League of Legends client.
 
-1. Download **`GankWise.zip`** from the [latest release](https://github.com/marciomvm/gankwise-releases/releases/latest).
-2. Unzip it anywhere (for example `Documents\GankWise`) and open **`GankWise.exe`**.
-3. Windows may show *"Windows protected your PC"* because the beta is not code-signed yet:
+1. Download **`GankWise-Setup.exe`** from the [latest release](https://github.com/marciomvm/gankwise-releases/releases/latest)
+   and run it. No admin password needed; it adds a Start menu shortcut and an uninstaller.
+2. Windows may show *"Windows protected your PC"* because the beta is not code-signed yet:
    click **More info › Run anyway**.
-4. Click **Sign in** (Google or email). That is all: no API keys to set up.
+3. Click **Sign in** (Google or email). That is all: no API keys to set up.
+
+To update, run a newer Setup over it: your history, settings and sign-in stay. Prefer no
+installer? The release also has **`GankWise.zip`**: unzip it and open `GankWise.exe`.
 
 GankWise lives in the system tray. Open League as usual; the coach starts with the game.
 
@@ -82,11 +85,13 @@ seu e-mail para a lista de espera.
 
 **Como instalar**
 
-1. Baixe o **`GankWise.zip`** na [versão mais recente](https://github.com/marciomvm/gankwise-releases/releases/latest).
-2. Descompacte e abra o **`GankWise.exe`**.
-3. Se o Windows mostrar *"O Windows protegeu o computador"*, clique em
+1. Baixe o **`GankWise-Setup.exe`** na [versão mais recente](https://github.com/marciomvm/gankwise-releases/releases/latest)
+   e abra. Não pede senha de administrador; cria atalho no Menu Iniciar e desinstalador.
+2. Se o Windows mostrar *"O Windows protegeu o computador"*, clique em
    **Mais informações › Executar assim mesmo** (o beta ainda não tem assinatura digital).
-4. Clique em **Entrar** (Google ou e-mail). Pronto: nenhuma chave para configurar.
+3. Clique em **Entrar** (Google ou e-mail). Pronto: nenhuma chave para configurar.
+
+Para atualizar, rode o Setup novo por cima: histórico, configurações e login continuam.
 
 Requisitos: Windows 10 ou 11 (64 bits) e o cliente do League of Legends.
 
